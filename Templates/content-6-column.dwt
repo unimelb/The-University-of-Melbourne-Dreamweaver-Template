@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>The Graduate School of Foo | The Faculty of Bar | The University of Melbourne</title>
+<!-- TemplateEndEditable -->
+<!--#include virtual="/template-assets/includes/header.html" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body class="content no-logo">
+<div class="wrapper">
+  <div class="header">
+    <div class="hgroup"> 
+      <!--#include virtual="/template-assets/includes/faculty-heading.html" --> 
+    </div>
+    <hr>
+  </div>
+  <div class="main col-6" id="main-content" role="main">
+    <h2><!-- TemplateBeginEditable name="page title" -->title<!-- TemplateEndEditable --></h2>
+    <!-- TemplateBeginEditable name="content" -->
+    <p>page content</p>
+    <!-- TemplateEndEditable --> </div>
+  <div class="col-2">
+    <div class="nav first" role="navigation"> 
+      <!--#include virtual="/template-assets/includes/globalnav.html" --> 
+    </div>
+  </div>
+  <hr>
+</div>
+<hr>
+<!--#include virtual="/template-assets/includes/footer.html" -->
+</body>
+</html>

@@ -1,0 +1,105 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>The Graduate School of Foo | The Faculty of Bar | The University of Melbourne</title>
+<!-- TemplateEndEditable -->
+<!--#include virtual="/template-assets/includes/header.html" -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body class="headingblock no-logo home">
+<div class="wrapper" id="top">
+  <div class="header">
+    <div class="hgroup">
+      <!--#include virtual="/template-assets/includes/faculty-heading.html" -->
+    </div>
+    <div id="headingtext">
+      <p class="title col-1">Who we are</p>
+      <p class="col-5">A pioneering research university, The University of Melbourne has the largest cohort of research students in&nbsp;Australia</p>
+      <hr>
+    </div>
+    <hr>
+  </div>
+  <!-- TemplateBeginEditable name="banner-widget" -->
+  <!--#include virtual="/template-assets/includes/home-banner.html" -->
+  <!-- TemplateEndEditable -->
+
+  <div class="main col-6" id="main-content" role="main">
+    <div class="col-2 first page-preview">
+	<!-- TemplateBeginEditable name="block1" -->
+      <h3><a href="#">Heading One</a></h3>
+      <ul>
+        <li><a href="#">List item one</a></li>
+        <li><a href="#">List item two</a></li>
+        <li><a href="#">List item three</a></li>
+      </ul>
+      <!-- TemplateEndEditable -->
+    </div>
+    <div class="col-2 page-preview">
+    <!-- TemplateBeginEditable name="block2" -->
+      <h3><a href="#">Heading Two</a></h3>
+      <ul>
+        <li><a href="#">List item one</a></li>
+        <li><a href="#">List item two</a></li>
+        <li><a href="#">List item three</a></li>
+      </ul>
+      <!-- TemplateEndEditable -->
+    </div>
+    <div class="col-2 page-preview">
+    <!-- TemplateBeginEditable name="block3" -->
+      <h3><a href="#">Heading Three</a></h3>
+      <ul>
+        <li><a href="#">List item one</a></li>
+        <li><a href="#">List item two</a></li>
+        <li><a href="#">List item three</a></li>
+      </ul>
+	  <!-- TemplateEndEditable -->
+    </div>
+    <hr>
+    <div class="col-2 first page-preview">
+    <!-- TemplateBeginEditable name="block4" -->
+      <h3><a href="#">Heading Four</a></h3>
+      <ul>
+        <li><a href="#">List item one</a></li>
+        <li><a href="#">List item two</a></li>
+        <li><a href="#">List item three</a></li>
+      </ul>
+	  <!-- TemplateEndEditable -->
+    </div>
+    <div class="col-2 page-preview">
+    <!-- TemplateBeginEditable name="block5" -->
+      <h3><a href="#">Heading Five</a></h3>
+      <ul>
+        <li><a href="#">List item one</a></li>
+        <li><a href="#">List item two</a></li>
+        <li><a href="#">List item three</a></li>
+      </ul>
+	<!-- TemplateEndEditable -->
+    </div>
+    <div class="col-2 page-preview">
+    <!-- TemplateBeginEditable name="block6" -->
+      <h3><a href="#">Heading Six</a></h3>
+      <ul>
+        <li><a href="#">List item one</a></li>
+        <li><a href="#">List item two</a></li>
+        <li><a href="#">List item three</a></li>
+      </ul>
+	<!-- TemplateEndEditable -->
+    </div>
+  </div>
+  <div class="aside col-2">
+  <!-- TemplateBeginEditable name="side-block" -->
+    <h3><a href="#">News Block</a></h3>
+    <p>News items</p>
+  <!-- TemplateEndEditable -->
+  </div>
+  <hr>
+</div>
+<hr>
+<!--#include virtual="/template-assets/includes/footer.html" -->
+</body>
+</html>
